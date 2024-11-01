@@ -25,6 +25,6 @@ pip install -r requirements.txt
 python preprocess_multi_domain.py
 
 ## Script Overview
-. Download & Extract: Retrieves and unzips the dataset.
-. Preprocess & Tokenize: Reads, labels, tokenizes, and splits data for BERT training.
-. Save Preprocessed Data: Outputs train_multi_domain.csv and test_multi_domain.csv.
+1. Download & Extract: Retrieves and unzips the dataset.
+2. Preprocess & Tokenize: Reads, labels, tokenizes, and splits data for BERT training.
+3.  Save Preprocessed Data: Outputs train_multi_domain.csv and test_multi_domain.csv.
